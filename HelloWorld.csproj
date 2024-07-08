@@ -15,7 +15,8 @@
     <!-- <Compile Include="latihan4-looping.cs" /> -->
     <!-- <Compile Include="latihan5-array.cs" /> -->
     <!-- <Compile Include="latihan6-string.cs" /> -->
-    <Compile Include="latihan7-oop.cs" />
+    <!-- <Compile Include="latihan7-oop.cs" /> -->
+    <Compile Include="latihan8-dictionary.cs" />
 
 
   </ItemGroup>
