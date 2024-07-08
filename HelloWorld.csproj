@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- <Compile Include="latihan1-tipe-data-dan-variabel.cs" /> -->
+    <!-- <Compile Include="latihan2-operasi-matematika.cs" /> -->
+    <!-- <Compile Include="latihan3-percabangan.cs" /> -->
+    <!-- <Compile Include="latihan4-looping.cs" /> -->
+    <!-- <Compile Include="latihan5-array.cs" /> -->
+    <!-- <Compile Include="latihan6-string.cs" /> -->
+    <Compile Include="latihan7-oop.cs" />
+
+
+  </ItemGroup>
+
+
+
+</Project>
